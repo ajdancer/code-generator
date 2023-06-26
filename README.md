@@ -12,3 +12,9 @@ I tested function of the application using the console and using the website its
 sources:
 Mr. Vega Tutorials on YouTube
 https://www.youtube.com/watch?v=v2jfGo7ztm8
+
+URL for code:
+https://github.com/ajdancer/code-generator.git
+
+URL for application:
+https://ajdancer.github.io/code-generator/
